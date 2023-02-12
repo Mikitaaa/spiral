@@ -1,0 +1,56 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "589c96f19abb215dda0cee59f08540e716cb2903f50c071796acfca8a665c488"
+    }
+  ],
+  "containerPath" : "/Users/Mikita/Desktop/XCode/spiral/spiral.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Mikita/Desktop/XCode/spiral/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Mikita/Desktop/XCode/spiral/Build/Products",
+      "derivedDataPath" : "/Users/Mikita/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Mikita/Library/Developer/Xcode/DerivedData/spiral-emtqhpdzwemxzddoeselgwtuwdrw/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Mikita/Library/Developer/Xcode/DerivedData/spiral-emtqhpdzwemxzddoeselgwtuwdrw/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/Mikita/Desktop/XCode/spiral/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
